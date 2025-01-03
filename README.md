@@ -16,7 +16,7 @@
 
      **Contoh kode program Python3 (Vs Code)**
 
-     ![alt text](image.png)
+     ![alt text](/output/image.png)
  
      **Penjelasan:**
      * **Class Mahasiswa:**
@@ -26,7 +26,7 @@
 
 2.	**File:** view/input_form.py
 
-     ![alt text](image-1.png)
+     ![alt text](/output/image-1.png)
  
      **Penjelasan:**
      * **Class InputForm:**
@@ -38,8 +38,8 @@
 
 3.	**File:** view/mahasiswa.py
 
-     ![alt text](image-2.png)
-     ![alt text](image-3.png)
+     ![alt text](/output/image-2.png)
+     ![alt text](/output/image-3.png)
 
      **Penjelasan:**
      * **Class ViewMahasiswa:**
@@ -63,7 +63,7 @@
 
 4.	**File:** main.py
 
-     ![alt text](image-4.png)
+     ![alt text](/output/image-4.png)
 
      **Penjelasan:**
      * Program utama menggunakan ViewMahasiswa untuk memanggil fungsi-fungsi:
@@ -77,16 +77,16 @@
 ### Contoh Penggunaan
 1.	Menambahkan Data
 
-     ![alt text](image-5.png)
+     ![alt text](/output/image-5.png)
 
 2. Menampilkan Data
 
-     ![alt text](image-6.png)
+     ![alt text](/output/image-6.png)
 
 3.	Menghapus Data
 
-     ![alt text](image-7.png)
+     ![alt text](/output/image-7.png)
 
 4.	Mengubah Data
 
-     ![alt text](image-8.png) 
+     ![alt text](/output/image-8.png) 
